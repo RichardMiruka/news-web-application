@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Njihia413.github.io/news-web-application",
-  "name": "phase-2-project",
+  "homepage": "https://github.com/RichardMiruka/news-web-application",
+  "name": "news-web-application",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "html-webpack-plugin": "^5.5.1"
   }
 }

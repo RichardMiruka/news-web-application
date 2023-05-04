@@ -1,8 +1,8 @@
 # News Web App
 # Contributors of this Project
-## By Maureen Njihia on 7th October 2022
+## By Richard Miruka, Benta Ofula, and contributors; Rebeccah Nakhanu and Michael Limisi
 # Description
-Moringa Phase 2 Independent Project on a News Web App that allows users to:
+Moringa Phase 2 Group Project on a News Web App that allows users to:
 * View news headlines
 * View news articles from various news sources e.g BBC, CNN
 * View news articles based on category e.g sports, technology
@@ -15,15 +15,15 @@ Moringa Phase 2 Independent Project on a News Web App that allows users to:
 # Setup Installation
 * Copy the link of this repository.
 ```
-https://github.com/Njihia413/phase-2-project.git
+https://github.com/RichardMiruka/news-web-application
 ```
 * Clone it to your local machine.
 ```
-git clone https://github.com/Njihia413/phase-2-project.git
+git clone https://github.com/RichardMiruka/news-web-application
 ```
 * Open terminal and navigate to the directory of the project.
 ```
-cd phase-2-project
+cd news-web-application
 ```
 * Run the following command to install the node modules folder.
 ```
@@ -68,10 +68,10 @@ npm start
 There are no known bugs of this project at the moment 😎.
 # Support and contact details
 For any contributions towards this project:
-* Email: developer.njihia@gmail.com
-* Phone: 0704592362
+* Email: richardmiruka96@gmail.com
+* Phone: 0700129706
 # License
-Copyright (c) 2022 Moringa School
+Copyright (c) 2023 Moringa School
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
