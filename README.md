@@ -69,4 +69,4 @@ There are no known bugs of this project at the moment 😎.
 # Support and contact details
 For any contributions towards this project:
 * Email: richardmiruka96@gmail.com
-* Phone: 0700129706
+* Phone: +254 700 129 706
